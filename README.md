@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Welcome to my GitHub
 - 🔭 I’m currently working on data mining
 - 🌱 I’m currently learning deep learning
-- 👯 I’m writing a book 《爬虫工程师进阶指南》
+- 👯 I’m writing a book 《爬虫逆向开发实战》
 
